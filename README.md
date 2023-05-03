@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-laravel 🐳
 
 <p align="center">
@@ -78,3 +79,6 @@ http://localhost
 
 - Base image
   - [mailhog/mailhog](https://hub.docker.com/r/mailhog/mailhog)
+=======
+# laravel_vue_template
+>>>>>>> origin/main
